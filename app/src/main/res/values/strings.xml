@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Word Game</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="yarisma1">TURKISH -> ENGLISH</string>
+    <string name="yarisma2">ENGLISH -> TURKISH</string>
+    <string name="score">SCORE</string>
+    <string name="exit">EXIT</string>
+    <string name="profile">CHANGE PROFILE</string>
+    <string name="score3">SCORE</string>
+    <string name="time">TIME</string>
+
+    <string name="hata1">WRONG ANSWER</string>
+    <string name="hata2">TIME IS UP!</string>
+    <string name="hata3">CONNECTION ERROR</string>
+
+    <string name="hata4">PASSWORD SHOULD BE AT LEAST 6 CHARACTERS</string>
+    <string name="hata5">PLEASE ENTER E-MAIL</string>
+    <string name="hata6">PLEASE ENTER PASSWORD</string>
+    <string name="hata7">EMAIL ADDRESS IS INVALID</string>
+    <string name="hata8">INCORRECT ENTRY</string>
+
+    <string name="basarili">USER CREATED</string>
+    <string name="tebrikler">CONGRATULATIONS HIGH SCORE</string>
+
+</resources>

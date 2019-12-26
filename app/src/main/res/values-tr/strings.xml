@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kelime Oyunu</string>
+    <string name="login">GİRİŞ</string>
+    <string name="signup">ÜYE OL</string>
+    <string name="yarisma1">TÜRKÇE -> İNGİLİZCE</string>
+    <string name="yarisma2">İNGİLİZCE -> TÜRKÇE</string>
+    <string name="score">SKOR</string>
+    <string name="exit">ÇIKIŞ</string>
+    <string name="profile">PROFİL DEĞİŞ</string>
+    <string name="score3">SKOR</string>
+    <string name="time">SÜRE</string>
+
+    <string name="hata1">YANLIŞ CEVAP</string>
+    <string name="hata2">SÜRE DOLDU!</string>
+    <string name="hata3">BAĞLANTI HATASI</string>
+
+    <string name="hata4">ŞİFRE EN AZ 6 HANELİ OLMALIDIR</string>
+    <string name="hata5">LÜTFEN E-MAIL GİRİN</string>
+    <string name="hata6">LÜTFEN ŞİFRE GİRİN</string>
+    <string name="hata7">GEÇERLİ E-MAİL GİRİNİZ</string>
+    <string name="hata8">YANLIŞ GİRİŞ</string>
+
+
+    <string name="basarili">KULLANICI OLUŞTURULDU</string>
+    <string name="tebrikler">TEBRİKLER YÜKSEK SKOR!</string>
+</resources>
